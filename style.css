@@ -1,0 +1,29 @@
+body{
+  background:#111;
+  color:white;
+  font-family:Arial;
+  padding:40px;
+}
+
+h1{
+  font-size:40px;
+}
+
+input{
+  padding:12px;
+  width:220px;
+  border:none;
+  border-radius:8px;
+}
+
+button{
+  padding:12px;
+  border:none;
+  border-radius:8px;
+  cursor:pointer;
+  margin-left:10px;
+}
+
+#result{
+  margin-top:30px;
+}
